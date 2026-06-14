@@ -1,0 +1,6 @@
+{
+  "name": "Wooyeon",
+  "description": "Wooyeon profile links website featuring premium frosted glass design template and custom control configurations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
